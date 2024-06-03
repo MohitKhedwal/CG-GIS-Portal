@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo {
+    background-image: url("Assets/logo.png");
+  }
+
+.text-custom-red {
+    color: rgb(142, 22, 11);
+  }
+
+
+
